@@ -1,0 +1,6 @@
+name: MineCord
+version: ${project.version}
+main: io.github.samuel21119.minecord.MineCord
+api-version: 1.16
+authors: [ Samuel ]
+description: Link minecraft and discord channel together
